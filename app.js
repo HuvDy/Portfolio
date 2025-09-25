@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'Embedded Hardware Engineer',
         'VLSI Designer',
         'Firmware Developer',
-        'Automotive Systems Expert'
+        'Automotive Systems Entusiast'
     ];
     let textIndex = 0;
     let charIndex = 0;
