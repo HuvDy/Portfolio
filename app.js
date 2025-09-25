@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const typingElement = document.querySelector('.typing-text');
     const texts = [
         'Electronics Engineer',
-        'Embedded Systems Specialist',
+        'Embedded Hardware Engineer',
         'VLSI Designer',
         'Firmware Developer',
         'Automotive Systems Expert'
